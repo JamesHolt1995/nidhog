@@ -14,8 +14,8 @@ export function Hero() {
           </h1>
           <div className="mt-6 space-y-6 font-display text-2xl tracking-tight text-slate-200">
             <p>
-              It's time to get you Nid on! come on down to our Leeds tournament
-              at Hicks Hall!
+              It&apos;s time to get you Nid on! come on down to our Leeds
+              tournament at Hicks Hall!
             </p>
             <p className="text-orange-300">
               At Nidhog Leeds all your dreams will come true. We will also serve
